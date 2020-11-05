@@ -29,8 +29,8 @@ You will need to add your own Nexmo api key, secret and virtual number
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Muhammad Ahmad
+[Rigrex](https://www.rigrex.com)
 
 ### Version
 
